@@ -1,5 +1,6 @@
 ## Custom ##
 .env.development
+bot.env
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,linux,macos,node,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows,linux,macos,node,yarn
