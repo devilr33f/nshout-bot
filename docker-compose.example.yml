@@ -1,0 +1,7 @@
+services:
+  bot:
+    build: .
+    container_name: nshout-bot
+    network_mode: bridge
+    restart: always
+    env_file: bot.env
